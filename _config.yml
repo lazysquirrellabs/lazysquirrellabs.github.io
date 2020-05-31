@@ -3,6 +3,6 @@ tagline: Sneaky Squirrel Labs
 description: Sneaky Squirrel Labs
 baseurl: /
 url: sneakysquirrellabs.com
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 homepage: /maintenance.html
 repository: SneakySquirrelLabs/sneakysquirrellabs.github.io
