@@ -1,1 +1,1 @@
-sneakysquirrellabs.github.io
+lazysquirrellabs.dev

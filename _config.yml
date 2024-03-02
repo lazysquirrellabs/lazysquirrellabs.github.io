@@ -1,8 +1,8 @@
-title: Sneaky Squirrel Labs
-tagline: Sneaky Squirrel Labs
-description: Sneaky Squirrel Labs
+title: Lazy Squirrel Labs
+tagline: Lazy Squirrel Labs
+description: Lazy Squirrel Labs
 baseurl: /
-url: sneakysquirrellabs.com
+url: lslabs.dev
 theme: jekyll-theme-cayman
 homepage: /maintenance.html
-repository: SneakySquirrelLabs/sneakysquirrellabs.github.io
+repository: LazySquirrelLabs/lazysquirrellabs.github.io
