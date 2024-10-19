@@ -12,7 +12,7 @@
 	<atom:link href="https://lslabs.dev/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lslabs.dev/</link>
 	<description>Video games and tools development</description>
-	<lastBuildDate>Fri, 18 Oct 2024 15:00:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Oct 2024 16:18:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://lslabs.dev/wp-content/uploads/2024/09/cropped-512-32x32.png</url>
+	<url>https://lslabs.dev/wp-content/uploads/2024/10/cropped-logo-32x32.webp</url>
 	<title>Lazy Squirrel Labs</title>
 	<link>https://lslabs.dev/</link>
 	<width>32</width>
